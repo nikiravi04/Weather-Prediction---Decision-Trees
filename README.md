@@ -1,2 +1,4 @@
 # Weather-Prediction-Decision-Trees
-Predicting Boston's weather based on previous month's data
+
+
+Can we predict the maximum temperature tomorrow for Boston, given historical data? We're going to use scikit-learn's decision forest implementation.
